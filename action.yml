@@ -1,5 +1,5 @@
 name: "productive-box"
-author: "maxam2017"
+author: "johnnymdoubleu"
 description: "Are you an early 🐤 or a night 🦉? Let's check out in gist"
 branding:
   icon: "activity"
@@ -7,3 +7,6 @@ branding:
 runs:
   using: "node20"
   main: "dist/index.js"
+
+uses: johnnymdoubleu/productive-box
+            
